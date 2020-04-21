@@ -1,0 +1,4 @@
+#Sat Apr 18 20:54:16 IST 2020
+base.0=E\:\\React Native\\YotHealth\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

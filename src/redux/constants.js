@@ -1,0 +1,23 @@
+export const FETCH_LOGIN 		= 'FETCH_LOGIN';
+export const FETCH_REGISTER 	= 'FETCH_REGISTER';
+export const FETCH_ALL 			= 'FETCH_ALL';
+export const FETCH_ACTIVATE 	= 'FETCH_ACTIVATE';
+export const FETCH_SENDREQUEST 	= 'FETCH_SENDREQUEST';
+export const FETCH_REQUESTS 	= 'FETCH_REQUESTS';
+export const FETCH_ACTREQUEST 	= 'FETCH_ACTREQUEST';
+export const FETCH_FRIENDS		= 'FETCH_FRIENDS';
+export const FETCH_MESSAGES		= 'FETCH_MESSAGES';
+export const FETCH_MESSAGE		= 'FETCH_MESSAGE';
+export const FETCH_UPDATE		= 'FETCH_UPDATE';
+export const FETCH_MAKECALL 	= 'FETCH_MAKECALL';
+export const FETCH_RESETPASSWORD= 'FETCH_RESETPASSWORD';
+
+export const SET_LOGIN 		= 'SET_LOGIN';
+export const SET_REGISTER	= 'SET_REGISTER';
+export const SET_ALL		= 'SET_ALL';
+export const SET_REQUESTS	= 'SET_REQUESTS';
+export const SET_FRIENDS	= 'SET_FRIENDS';
+export const SET_MESSAGES 	= 'SET_MESSAGES';
+export const SET_MESSSAGE	= 'SET_MESSSAGE';
+export const SET_UPDATE		= 'SET_UPDATE';
+export const SET_QBINFO 	= 'SET_QBINFO';
